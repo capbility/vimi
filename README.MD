@@ -1,6 +1,8 @@
 # Vimi
 
 **Vimi** es un editor simple de código en **Python con wxPython**, creado como recurso educativo accesible.  
+A diferencia de Visual Studio Code y otros editores modernos, que pueden resultar complicados cuando estamos aprendiendo nuestro primer lenguaje de programación —y aún más si utilizamos lectores de pantalla—, **Vimi** busca ser ligero, claro y fácil de usar.  
+
 El nombre es un homenaje a [Vim](https://www.vim.org/), uno de los editores más influyentes.
 
 ## 🚀 Características
