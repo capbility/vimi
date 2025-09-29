@@ -38,9 +38,9 @@ Además:
 
 ## ▶️ Ejecutables
 
-Puedes descargar los ejecutables ya generados para macOS y Windows:
-- [Carpeta Google Drive con ejecutables](https://drive.google.com/drive/u/3/folders/1-YwTCKG676GAfdYKFI4YRLWgCJ_ye4sA)
-- Descarga, descomprime (en el caso de macOS) y ejecútalo directamente. 
+Puedes descargar los ejecutables ya generados para macOS y Windows en la [Carpeta Google Drive que guarda los ejecutables](https://drive.google.com/drive/u/3/folders/1-YwTCKG676GAfdYKFI4YRLWgCJ_ye4sA)
+- macOS: descarga el archivo Vimi.app.zip, descomprime y ejecútalo directamente. 
+- Windows: descarga el archivo Vimi.exe y ejecútalo directamente.
 
 ## ▶️ Probar el código
 
