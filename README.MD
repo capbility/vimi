@@ -11,12 +11,19 @@ El nombre es un homenaje a [Vim](https://www.vim.org/), uno de los editores más
 - Área de edición básica para escribir código.
 - Proyecto pensado como ejemplo educativo y accesible.
 
-## 🖥️ Funcionalidades
+## 🖥️ Funcionalidades Windows
 
 - **Abrir archivo:** `Ctrl + O`
 - **Guardar archivo:** `Ctrl + S`
 - **Guardar como:** `Ctrl + Shift + S`
 - **Salir del editor:** `Ctrl + Q`
+
+## 🖥️ Funcionalidades macOS
+
+- **Abrir archivo:** `Cmd + O`
+- **Guardar archivo:** `Cmd + S`
+- **Guardar como:** `Cmd + Shift + S`
+- **Salir del editor:** `Cmd + Q`
 
 Además:
 - Barra de estado que muestra nombre de archivo, línea y columna.
@@ -29,7 +36,13 @@ Además:
 - Python 3.10 o superior
 - wxPython (instalar con `pip install wxPython`)
 
-## ▶️ Ejecución
+## ▶️ Ejecutables
+
+Puedes descargar los ejecutables ya generados para macOS y Windows:
+- [Carpeta Google Drive con ejecutables](https://drive.google.com/drive/u/3/folders/1-YwTCKG676GAfdYKFI4YRLWgCJ_ye4sA)
+- Descarga, descomprime (en el caso de macOS) y ejecútalo directamente. 
+
+## ▶️ Probar el código
 
 Clona este repositorio y entra a la carpeta del proyecto:
 ```bash
